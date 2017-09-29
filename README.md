@@ -1,0 +1,5 @@
+# litteStart-springboot
+在STS中构建一个springboot的小例子，实现mysql数据库的访问及简单的requestMapping页面调用
+
+
+代码包名为little-start
